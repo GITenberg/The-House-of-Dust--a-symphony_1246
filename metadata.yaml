@@ -1,0 +1,27 @@
+_repo: The-House-of-Dust--a-symphony_1246
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aiken, Conrad
+    alias: Aiken, Conrad Potter
+    birthdate: 1889
+    deathdate: 1973
+    gutenberg_agent_id: '570'
+    url: http://www.gutenberg.org/2009/agents/570
+    wikipedia: http://en.wikipedia.org/wiki/Conrad_Aiken
+description: ''
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcsh 'Pastoral poetry'
+- !lcc 'PS'
+- GITenberg
+title: 'The House of Dust: A Symphony'
+url: http://www.gutenberg.org/ebooks/1246
